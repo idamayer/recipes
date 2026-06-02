@@ -6,11 +6,23 @@
 
 |Field         |Value|
 |--------------|-----|
-|**Category**  |Baking|
+|**Category**  |Desserts|
 |**Time**      ||
 |**Tag**       |DESSERT|
 |**Serves**    ||
 |**Difficulty**||
+
+----
+
+## Image
+
+<!-- Paste a direct image URL below. For Google Photos:
+     1. Open your shared album, click the photo
+     2. Right-click → "Open image in new tab"
+     3. Copy the lh3.googleusercontent.com/… URL
+     For any other host, any publicly accessible URL works. -->
+
+![Recipe photo](https://photos.fife.usercontent.google.com/pw/AP1GczPYVOSkSFnAY24eQGwpA05vDCrQWuoWvi0HBJHt6fht_pM9AOTjWClbLg=w1266-h950-s-no-gm?authuser=0=w1200)
 
 -----
 
