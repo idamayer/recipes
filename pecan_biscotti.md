@@ -22,7 +22,7 @@
      3. Copy the lh3.googleusercontent.com/… URL
      For any other host, any publicly accessible URL works. -->
 
-![Recipe photo](https://photos.fife.usercontent.google.com/pw/AP1GczPYVOSkSFnAY24eQGwpA05vDCrQWuoWvi0HBJHt6fht_pM9AOTjWClbLg=w1266-h950-s-no-gm?authuser=0=w1200)
+![Recipe photo](https://lh3.googleusercontent.com/pw/AP1GczPP8v1gZIVU-cP6uI8GT8KifDoQhZLT3KY_v-5oDLD1a6yrM55uXjMdzVrQNJN0H3IUaikJoVl9xsSWP6ERMUiyvf8cMVZ4UZJjUKAiLDi_rfuCX47Ajyo3QE6hzYz7xo-a0uLBaArHz2K3JVF5-vWz5A=w1266-h950-s-no-gm)
 
 -----
 
