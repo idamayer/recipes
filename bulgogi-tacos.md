@@ -1,6 +1,6 @@
 # Bulgogi Tacos
 
-> Sweet, savory, and slightly spicy filling wrapped in a warm tortilla and finished with bright, creamy toppings.
+> Korean-fusion tacos that hide a veritable mountain of vegetables and can absorb most miscellaneous leftover sauces come your way. Don't skimp on the greek yogurt.
 
 ---
 
@@ -16,9 +16,10 @@
 
 ---
 
-## Description
 
-This flexible weeknight meal borrows the sweet-savory profile of Korean bulgogi and pairs it with taco-style assembly. The filling is forgiving, scales well, and works equally well in tortillas or stuffed peppers.
+## Image
+
+![Recipe photo](https://lh3.googleusercontent.com/pw/AP1GczNzjNJp5-LEOMTkFQ9f8qk0IL2WohY2WOH9BA7XNTJtf6Q0YDg_tfxjnZRmg40d7Etcd9WYhyDcEzeMDFITxCedsn5u22pwDrJJOznB2RO0Sr87JCSDpV_1_kDQjI_u7aGjBVw8PoTWZ_dOVr1DObwq2A=w1400-h1508-s-no-gm?authuser=0)
 
 ---
 

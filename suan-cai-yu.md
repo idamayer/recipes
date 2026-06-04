@@ -8,7 +8,7 @@
 
 | Field | Value |
 |---|---|
-| **Category** | Soups |
+| **Category** | Chinese, Soups |
 | **Time** | 30 MIN |
 | **Tag** | QUICK |
 | **Serves** | 4 |

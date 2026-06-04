@@ -1,4 +1,4 @@
-# Austin-Style Cornbread
+# Texas Cornbread
 
 > Ida spent years trying to track down a recipe that properly recreated the cornbread of her childhood. Other recipes forget their corn heritage and add too much wheat flour, producing a cornbread with too mild a texture and flavor. This cornbread is moist, dense, and only lightly sweet. The secret ingredient here is buttermilk.
 
@@ -10,7 +10,7 @@
 
 | Field | Value |
 |---|---|
-| **Category** | Baking |
+| **Category** | Breads |
 | **Time** | 30 MIN |
 | **Tag** | EASY |
 | **Serves** | 9 |
@@ -18,6 +18,9 @@
 
 ---
 
+![Recipe photo](https://lh3.googleusercontent.com/pw/AP1GczP7HT86GhXWUx7EdvUiLA6LQ5wNvkefKtL3Ar9Rln67apCEQLRi1J3wCiM2GFyaNsdm7PKuMLMbkiJdW3D_FWfd5NC-a_EAvgrbz9JxDMvXEKorrNiIQg2VCMFDhkrFmAuntVhFnagv6PsTM2IWQkfDSA=w1176-h1508-s-no-gm?authuser=0)
+
+---
 
 ## Ingredients
 
