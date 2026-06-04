@@ -1,5 +1,9 @@
 # Kofta Kebab
 
+> A classic Middle Eastern-style kofta kebab, shaped onto skewers, and grilled or oven roasted.
+
+**Adapted from** [*Shadi Hasanzade-Nemati, Unicorns in the Kitchen*](https://www.unicornsinthekitchen.com/grilled-kofta-kebab-recipe/#wprm-recipe-container-32116)
+
 ---
 
 ## Meta
@@ -8,9 +12,9 @@
 |---|---|
 | **Category** | Mains |
 | **Time** | 1 HR |
-| **Tag** | EASY |
+| **Tag** | |
 | **Serves** | 6 |
-| **Difficulty** | Easy |
+| **Difficulty** | |
 
 ---
 
@@ -20,13 +24,6 @@
 
 ---
 
-## Description
-
-A classic Middle Eastern-style kofta kebab, shaped onto skewers, and grilled or oven roasted.
-
-**Adapted from** [*Shadi Hasanzade-Nemati, Unicorns in the Kitchen*](https://www.unicornsinthekitchen.com/grilled-kofta-kebab-recipe/#wprm-recipe-container-32116)
-
----
 
 ## Ingredients
 

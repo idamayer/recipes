@@ -8,7 +8,7 @@
 |--------------|-----|
 |**Category**  |Desserts|
 |**Time**      |2.5 HR|
-|**Tag**       |DESSERT|
+|**Tag**       | |
 |**Serves**    ||
 |**Difficulty**||
 

@@ -1,4 +1,8 @@
-# Chewy Molasses Cookies with Candied Ginger
+# Molasses Ginger Cookies
+
+> Chewy molasses ginger cookies, with warm spices and pieces of candied ginger. Coat with cinnamon sugar for a crackled crust.
+
+**Adapted from** [Emily Laurae — Chewy Molasses Cookies with Candied Ginger](https://emilylaurae.com/chewy-molasses-cookies-with-candied-ginger/)
 
 ---
 
@@ -8,7 +12,7 @@
 |----------------|------------|
 | **Category** | Desserts |
 | **Time** | 1 HR 30 MIN |
-| **Tag** | DESSERT |
+| **Tag** | |
 | **Serves** | 36 |
 | **Difficulty** | Easy |
 
@@ -20,13 +24,6 @@
 
 ---
 
-## Description
-
-These chewy molasses cookies balance deep caramel notes, warm baking spices, and pieces of candied ginger. A coating of cinnamon sugar creates a delicate crackled crust that contrasts beautifully with the soft center.
-
-**Adapted from** [Emily Laurae — Chewy Molasses Cookies with Candied Ginger](https://emilylaurae.com/chewy-molasses-cookies-with-candied-ginger/)
-
----
 
 ## Ingredients
 

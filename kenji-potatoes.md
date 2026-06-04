@@ -1,6 +1,8 @@
 # Kenji Potatoes
 
-> The baking soda softens the outside of these potatoes, and essentially creates a mashed potato batter on the outside for incredibly crispy roasted potatoes.
+> The famous roasted potatoes from Kenji Lopez-Alt. Baking soda softens the outside of these potatoes, and creates a mashed potato batter on the outside for an incredibly crispy exterior.
+
+**Adapted from** [*Kenji López-Alt, Serious Eats*](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 
 ---
 
@@ -22,13 +24,6 @@
 
 ---
 
-## Description
-
-These potatoes are famous for their extraordinary contrast of texture: a deeply crisp crust surrounding a fluffy interior. The technique relies on parboiling with baking soda, roughing up the surface, and roasting in hot fat until golden.
-
-**Adapted from** [*Kenji López-Alt, Serious Eats*](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
-
----
 
 ## Ingredients
 
