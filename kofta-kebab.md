@@ -30,8 +30,8 @@
 - 1 1/2 lb ground beef, 85% lean
 - 1 onion
 - 3 cloves garlic, minced
-- 3–4 tbsp breadcrumbs
-- 1/2 cup parsley, chopped
+- 1/4 cup breadcrumbs, or 1 stale slice of bread
+- 1/2 cup parsley, chopped **(optional)**
 - 1 tsp cumin
 - 1/2 tsp coriander
 - 1 tsp paprika
@@ -46,7 +46,7 @@
 ## To Serve
 
 - Warm pita bread
-- Yogurt sauce with herbs or preserved lemon
+- Sauce: Yogurt sauce with herbs or preserved lemon; hummus; or tahini
 - Shredded cabbage
 - Pickles
 - Fresh cilantro *(optional)*
@@ -56,27 +56,31 @@
 
 ## Method
 
-### 01 — Prepare the Mixture
+### 01 — Puree Onion
 
-Shred the onion in a food processor. Mix the shredded onion with the breadcrumbs, then add the ground beef, garlic, parsley, and all spices. Process until the mixture is well combined and sticky. Refrigerate for 1 hour.
+Shred or puree the onion in a food processor. You want onion juice to escape the onion so that it can soak into the bread crumbs. If using bread puree it into the onion mixture until incorporated.
 
-### 02 — Prepare the Grill
+### 02 — Make the Meat Mixture
 
-Soak wooden skewers in cold water for 30 minutes. Preheat the grill to medium-high heat. Cut a potato in half and rub it over the grill grates to help prevent sticking.
+Mix the shredded onion with the breadcrumbs, then add the ground beef, garlic, parsley, and all spices. Process until the mixture is well combined and sticky. Refrigerate for 1 hour.
 
 ### 03 — Shape the Kebabs
 
-Wet your hands with cold water. Grab a fistful of the beef mixture and mold it around a skewer. Repeat with the remaining mixture, wetting your hands as needed.
+If roasting, preheat the oven to 375 deg F. Wet your hands with cold water. Grab a fistful of the beef mixture and mold it into a log. Repeat with the remaining mixture, wetting your hands as needed.
 
 ### 04 — Grill
 
-Grill over medium-high heat for 3–4 minutes per side, turning carefully a few times until cooked through and lightly charred.
+Pan fry or roast in the oven.
+
+### 05 — Assemble
+
+Warm the pitas in the last few minutes of cooking either in the pan or the oven. Stuff pitas with meat, sauce, and shredded veggies.
 
 ---
 
 ## A Note from the Kitchen
 
-*The onion contributes both moisture and flavor. Chilling the mixture before shaping helps it stay firmly attached to the skewers during grilling.*
+*The onion contributes both moisture and flavor. Chilling the mixture before shaping helps it stay in shape.*
 
 ---
 

@@ -10,7 +10,7 @@
 
 | Field | Value |
 |---|---|
-| **Category** | Mains |
+| **Category** | Chinese, Mains |
 | **Time** | 1 HR |
 | **Tag** | EASY |
 | **Serves** | 4 |

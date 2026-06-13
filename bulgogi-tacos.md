@@ -1,6 +1,6 @@
 # Bulgogi Tacos
 
-> Korean-fusion tacos that hide a veritable mountain of vegetables and can absorb most miscellaneous leftover sauces come your way. Don't skimp on the greek yogurt.
+> Korean-fusion tacos that hide a veritable mountain of vegetables and can absorb most miscellaneous leftover sauces come your way. Don't skimp on the greek yogurt!
 
 ---
 
@@ -24,8 +24,6 @@
 ---
 
 ## Ingredients
-
-### Filling
 - 1 lb ground meat
 - ⅓–½ head cabbage, shredded or finely minced
 - 2–3 carrots, shredded
