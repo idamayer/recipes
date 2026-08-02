@@ -28,7 +28,7 @@ Source: https://barefootcontessa.com/recipes/beattys-chocolate-cake
 
 ## Ingredients
 
-- 1¾ cups all-purpose flour
+- 1¾ cups all-purpose flour (if the batter looks very thin, add ~2 tablespoons)
 - 1¾ cups sugar
 - ¾ cup good cocoa powder
 - 2 teaspoons baking soda
@@ -38,8 +38,7 @@ Source: https://barefootcontessa.com/recipes/beattys-chocolate-cake
 - ½ cup vegetable oil
 - 2 extra-large eggs, at room temperature
 - 1 teaspoon pure vanilla extract
-- 1 cup hot water
-- 2 teaspoons instant coffee powder
+- ~2 teaspoons instant coffee powder
 
 ### Frosting
 
