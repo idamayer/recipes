@@ -68,7 +68,7 @@ Dissolve the instant coffee powder in the hot water. With the mixer still on low
 
 Divide the batter evenly between the prepared pans.
 
-Bake for 35–40 minutes, until a cake tester inserted in the center comes out clean.
+Bake for 35–40 minutes (50-55 min in a single cake pan), until a cake tester inserted in the center comes out clean.
 
 Cool in the pans for 30 minutes, then turn out onto a wire rack and cool completely.
 
