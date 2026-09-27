@@ -29,19 +29,19 @@
 
 ## Method
 
-### 01 Soften the cream cheese
+### 01 — Soften the cream cheese
 
 Preheat the oven to **350°F**. Remove the cream cheese from its
 packaging and place it in a microwave-safe bowl. Break it up with a fork and heat it 
 **~30 seconds**, until it is very soft and easy to beat. Do not let it get hot or melted. Beat the softened cream cheese until completely smooth and creamy.
 
 
-### 02 Mix the filling
+### 02 — Mix the filling
 
 Mix in the Greek yogurt, eggs and salt until just combined.
 
 
-### 03 Fill and bake
+### 03 — Fill and bake
 
 
 Set the  crust on a baking sheet to catch spills. Pour the filling into the premade graham cracker crust and smooth the
@@ -54,10 +54,12 @@ should not look liquid in the middle.
 If the top is browning too quickly while the center remains loose,
 loosely tent it with foil and continue baking.
 
-### 05 Cool before cutting
+### 04 — Cool before cutting
 
 Remove the cheesecake and let it cool completely at room temperature.
 
 Ideally, refrigerate for **at least 4 hours**, before
 slicing, otherwise it will crumble. The texture becomes substantially firmer and creamier as it
 chills.
+
+-----
