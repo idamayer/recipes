@@ -2,27 +2,19 @@
 
 > A low sugar "breakfast cheesecake" with a density between classic New York cheesecake and a lighter yogurt cake.
 
-------------------------------------------------------------------------
+----
 
-## Meta
+  ## Meta
 
-  --------------------------------------------------------------------------
-  Field             Value
-  ----------------- --------------------------------------------------------
-  **Category**      Desserts
+|Field         |Value|
+|--------------|-----|
+|**Category**  |Desserts|
+|**Time**      |1.5 HR|
+|**Tag**       | DESSERT |
+|**Serves**    ||
+|**Difficulty**|Easy|
 
-  **Time**          1 HR 30 MIN
-
-  **Tag**           DESSERT
-
-  **Serves**        8
-
-  **Difficulty**    Easy
-
-  **Attribution**   Adapted from Greek-yogurt cheesecake recipes
-  --------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+----
 
 ## Ingredients
 
@@ -33,7 +25,7 @@
 - 2-4 Tbsp flour
 - Pinch of salt *(optional)*
 
-------------------------------------------------------------------------
+----
 
 ## Method
 
@@ -69,9 +61,3 @@ Remove the cheesecake and let it cool completely at room temperature.
 Ideally, refrigerate for **at least 4 hours**, before
 slicing, otherwise it will crumble. The texture becomes substantially firmer and creamier as it
 chills.
-
-
-
-## Tags
-
-`cheesecake` `greek-yogurt` `dessert` `baking` `vegetarian`
